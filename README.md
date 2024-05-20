@@ -5,9 +5,9 @@ The objective of this case study is to mitigate credit loss by effectively ident
 ## Approach
 * Data Cleaning
 * Univariate Analysis
-* Segemented Univariate Analysis
-* Bivaraiate/Multivariate Analysis
-* Conclussion
+* Bivaraiate Analysis
+* Correlation Matrix
+* Recomendations & Conclussion
  ## Technologies Used
 * Python 
 * Matplotlib 
