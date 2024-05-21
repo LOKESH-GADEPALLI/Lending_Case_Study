@@ -16,4 +16,4 @@ The objective of this case study is to mitigate credit loss by effectively ident
 * Seaborn 
 ## Contributors
 * Lokesh Gadepalli.
-* Kshitij.
+* Kshitij Dhande.
